@@ -1,0 +1,22 @@
+@media all and (max-width: 480px) {
+  .cover {
+    width: 1000px;
+    transform: 
+  }
+  
+  .whywording{
+    font-size: 2em;
+    left: 15%;
+  }
+  
+  .whyparaph{
+    width: 70vw;
+    left: 14%;
+  }
+  
+  .prewording2{
+    font-size: .6em;
+  }
+}
+
+

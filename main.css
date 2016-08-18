@@ -1,0 +1,242 @@
+
+
+.city{
+  width: 100vw;
+}
+
+
+
+.whywording{
+  font-family: 'Scope One', serif;
+  font-size: 4em;
+  position: relative;
+  left: 30%;
+  display:inline;
+  align-self: flex-start;
+  margin-top: 240px;
+  
+}
+
+
+.whyparaph{
+ 
+  font-size: .9em;
+  position: relative;
+  left: 30%;
+  display: inline;
+  align-self: flex-start;
+  line-height: 1.7;
+  width: 40vw;
+  border-bottom: 1px solid #D2D2D2;
+  padding: 10px;
+  color: #3D3D3D;
+  letter-spacing: 1.2px;
+}
+
+
+
+.why{
+  background: #F2F1E7;
+  display:flex;
+  flex-direction: column;
+  transform: translateY(0px);
+ 
+}
+
+
+
+.cover{
+  width: 100%;
+  
+}
+
+.concept{
+   width: 100%;
+}
+
+
+
+
+
+
+.space{
+  background: #191919;
+  height: 1100px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+
+.endwording{
+  font-family:monospace;
+  font-size: .9em;
+  letter-spacing: 1.4px;
+  color: #9D9D9D;
+  display: flex;
+  align-self: center;
+  text-align:center;
+  margin-top: 720px;
+  line-height: 1.3;
+}
+
+
+
+.fb, .ig {
+  height: 20px;
+  width: 20px;
+  opacity: 0.5;
+}
+
+
+.installwording:hover {
+   opacity: 1;
+  transition: all 0.4s ease;
+  color: #F84C4C;
+}
+
+.installwording:hover img {
+  opacity: 1;
+  transition: all 0.4s ease;
+}
+
+.link{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  vertical-align:middle;
+}
+
+
+
+.us{
+  font-family: 'Scope One', serif;
+  font-size: 1em;
+  letter-spacing: 1.4px;
+  color: #9D9D9D;
+  display: flex;
+  align-self: center;
+  text-align:center;
+  margin-top: 120px;
+  margin-bottom: 80px;
+  line-height: 2.3;
+}
+
+
+
+
+.visual{
+  position: absolute;
+  position: fixed;
+  left: 15%;
+  font-family: 'Abel', sans-serif;
+  font-size: 8em;
+  letter-spacing: 33px;
+  color: #3B99C6;
+  opacity: 1;
+  line-height: 1.7;
+  margin-top: 40px;
+  
+}
+
+.logobar{
+  position: fixed;
+  width: 100vw;
+  height: 60px;
+  background-color: #F2F1E7;
+  top: 0;
+  left:0;
+  z-index: 3;
+}
+
+
+.logo{
+  width: 120px;
+  position: relative;
+  left: 30%;
+  top:10px;
+}
+
+.knockuscontent{
+  position: relative;
+  left: 20%;
+  font-family: 'Scope One', serif;
+  font-size: 3em;
+  letter-spacing: 2px;
+  color: white;
+  opacity: 1;
+  line-height: 1.7;
+  margin-top: 20%;
+}
+
+
+
+.knockus{
+  width: 100%;
+  height: 400px;
+  background: #0F6587;
+}
+
+
+
+.installhint{
+  position: fixed;
+  right:0;
+  z-index: 3;
+  bottom: 0;
+  background-color: #333333;
+  display: flex;
+  flex-direction: row;
+  border-top: 5px solid #3B99C6;
+  border-left: 5px solid #F04444;
+}
+
+.installwording{
+  position: relative;
+  font-family: 'Scope One', serif;
+  font-size: .9em;
+  letter-spacing: 2px;
+  color: white;
+  opacity: 1;
+  text-align: center;
+  padding: 20px 10px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+.installwording:first-child {
+  padding-left: 40px;
+}
+.installwording:last-child {
+  padding-right: 40px;
+}
+
+
+.prewording{
+  font-size: .9em;
+  letter-spacing: 2px;
+  text-align: center;
+  margin-top: 30px;
+  line-height: 1.5;
+}
+
+
+.prewording2{
+  font-family: 'Scope One', serif;
+  font-size: .9em;
+  letter-spacing: 2px;
+  text-align: center;
+  margin-top: 12px;
+  line-height: 1.5;
+}
+
+
+
+
+.coverimg{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
