@@ -131,7 +131,7 @@
   position: absolute;
   position: fixed;
   left: 15%;
-  font-family: 'Abel', sans-serif;
+ font-family: 'Raleway', sans-serif;
   font-size: 8em;
   letter-spacing: 33px;
   color: #3B99C6;
@@ -239,4 +239,5 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  overflow: hidden;
 }
