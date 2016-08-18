@@ -58,7 +58,13 @@
    width: 100%;
 }
 
-  
+
+.logo{
+  width: 120px;
+  position: relative;
+  left: 30%;
+  top:3px;
+}
 }
 
 
