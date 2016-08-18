@@ -23,7 +23,7 @@
   .logobar{
   position: fixed;
   width: 100vw;
-  height: 90px;
+  height: 50px;
   background-color: #F2F1E7;
   top: 0;
   left:0;
@@ -53,6 +53,11 @@
   
 }
   
+  
+.concept{
+   width: 100%;
+}
+
   
 }
 
