@@ -10,11 +10,22 @@
   font-family: 'Scope One', serif;
   font-size: 4em;
   position: relative;
-  left: 30.7%;
+  left: 10.7%;
   display:inline;
   align-self: flex-start;
-  margin-top: 240px;
+  margin-top: 60px;
   
+  
+}
+
+.whywording1{
+  font-family: 'Scope One', serif;
+  font-size: 4em;
+  position: relative;
+  left: 10.7%;
+  display:inline;
+  align-self: flex-start;
+  margin-top: 300px;
 }
 
 
@@ -22,7 +33,7 @@
  
   font-size: .9em;
   position: relative;
-  left: 30%;
+  left: 10%;
   display: inline;
   align-self: flex-start;
   line-height: 1.7;
@@ -31,6 +42,7 @@
   padding: 10px;
   color: #3D3D3D;
   letter-spacing: 1.2px;
+  margin-bottom: 40px;
 }
 
 
@@ -279,7 +291,7 @@
     background-image: url("img/IMG_9769.jpg");
 
     /* Set a specific height */
-    height: 500px; 
+    height: 600px; 
     
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -294,7 +306,7 @@
     background-image: url("img/imageonly-10-02.jpg");
 
     /* Set a specific height */
-    height: 400px; 
+    height: 600px; 
     
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -312,8 +324,17 @@
 
 
 .post{
-  width: 260px;
+  width: 320px;
   position: relative;
   left: 10%;
   top:17%;
+}
+
+
+
+.knockword{
+  width: 320px;
+  position: relative;
+  left: 20%;
+  top:23%;
 }
