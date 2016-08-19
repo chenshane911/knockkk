@@ -14,6 +14,7 @@
   display:inline;
   align-self: flex-start;
   margin-top: 60px;
+  border-top: 1px solid #D2D2D2;
   
   
 }
@@ -26,6 +27,7 @@
   display:inline;
   align-self: flex-start;
   margin-top: 300px;
+  border-top: 1px solid #D2D2D2;
 }
 
 
@@ -38,7 +40,7 @@
   align-self: flex-start;
   line-height: 1.7;
   width: 40vw;
-  border-bottom: 1px solid #D2D2D2;
+  
   padding: 10px;
   color: #3D3D3D;
   letter-spacing: 1.2px;
@@ -285,6 +287,19 @@
 
 
 
+.parallax1 { 
+    /* The image used */
+    background-image: url("img/imageonly-10-02.jpg");
+
+    /* Set a specific height */
+    height: 600px; 
+    
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 
 .parallax2 { 
     /* The image used */
@@ -301,12 +316,12 @@
 }
 
 
-.parallax1 { 
+.parallax3 { 
     /* The image used */
-    background-image: url("img/imageonly-10-02.jpg");
+    background-image: url("img/city.png");
 
     /* Set a specific height */
-    height: 600px; 
+    height: 500px; 
     
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -314,6 +329,7 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }
+
 
 
 
@@ -326,7 +342,7 @@
 .post{
   width: 320px;
   position: relative;
-  left: 36%;
+  left: 56%;
   bottom: 9%;
 }
 
@@ -335,12 +351,18 @@
 .knockword{
   width: 320px;
   position: relative;
-  left: 21%;
+  left: 52%;
   top:50%;
 }
 
 
-
+.period{
+  width:320px;
+  position: relative;
+  align-items: center;
+  align-self: center;
+  left: 40%;
+}
 
 
 
