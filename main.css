@@ -291,7 +291,7 @@
     background-image: url("img/IMG_9769.jpg");
 
     /* Set a specific height */
-    height: 600px; 
+    height: 500px; 
     
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -326,8 +326,8 @@
 .post{
   width: 320px;
   position: relative;
-  left: 10%;
-  top:17%;
+  left: 36%;
+  bottom: 9%;
 }
 
 
@@ -335,6 +335,12 @@
 .knockword{
   width: 320px;
   position: relative;
-  left: 20%;
-  top:23%;
+  left: 21%;
+  top:50%;
 }
+
+
+
+
+
+
