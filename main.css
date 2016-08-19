@@ -10,7 +10,7 @@
   font-family: 'Scope One', serif;
   font-size: 4em;
   position: relative;
-  left: 30%;
+  left: 30.7%;
   display:inline;
   align-self: flex-start;
   margin-top: 240px;
@@ -132,12 +132,12 @@
   position: fixed;
   left: 15%;
  font-family: 'Raleway', sans-serif;
-  font-size: 8em;
+  font-size: 6em;
   letter-spacing: 33px;
-  color: #3B99C6;
+  color: #F2F1E7;
   opacity: 1;
   line-height: 1.7;
-  margin-top: 40px;
+  margin-top: 80px;
   
 }
 
@@ -186,7 +186,7 @@
   right:0;
   z-index: 3;
   bottom: 0;
-  background-color: #333333;
+  background-color: #1A476B;
   display: flex;
   flex-direction: row;
   border-top: 5px solid #3B99C6;
@@ -218,7 +218,7 @@
   font-size: .9em;
   letter-spacing: 2px;
   text-align: center;
-  margin-top: 30px;
+  margin-top: 50px;
   line-height: 1.5;
 }
 
@@ -247,4 +247,73 @@
   opacity: .3;
   transition: all 0.4s ease;
   
+}
+
+
+
+.part1{
+  width: 100%;
+  margin-top: 30px;
+}
+
+
+.works{
+  width: 100%;
+}
+
+.howplay{
+  width: 100%;
+}
+
+
+
+.family{
+  width: 100%;
+}
+
+
+
+
+.parallax2 { 
+    /* The image used */
+    background-image: url("img/IMG_9769.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+    
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax1 { 
+    /* The image used */
+    background-image: url("img/imageonly-10-02.jpg");
+
+    /* Set a specific height */
+    height: 400px; 
+    
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+
+.parallax{
+  
+  left:30%;
+}
+
+
+.post{
+  width: 260px;
+  position: relative;
+  left: 10%;
+  top:17%;
 }
