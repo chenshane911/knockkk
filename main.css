@@ -247,7 +247,10 @@
 }
 
 
-
+.dn{
+	width: 20px;
+	align-self: center;
+}
 
 .coverimg{
   display: flex;
