@@ -98,7 +98,7 @@
 
 
 
-.fb, .ig ,.top{
+.fb, .ig ,.topm{
   height: 20px;
   width: 20px;
   opacity: 0.5;
@@ -106,7 +106,7 @@
 
 
 .installwording:hover {
-   opacity: 1;
+  opacity: 1;
   transition: all 0.4s ease;
   color: #F84C4C;
 }
@@ -115,6 +115,10 @@
   opacity: 1;
   transition: all 0.4s ease;
 }
+
+p.installwording  {
+	cursor: pointer;
+} 
 
 .link{
   display: flex;
@@ -215,13 +219,13 @@
   color: white;
   opacity: 1;
   text-align: center;
-  padding: 20px 10px;
+  padding: 5px 10px;
   text-decoration: none;
   display: flex;
   align-items: center;
 }
 .installwording:first-child {
-  padding-left: 40px;
+  padding-left: 30px;
 }
 .installwording:last-child {
   padding-right: 40px;
