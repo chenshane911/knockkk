@@ -380,7 +380,7 @@
 .ad2p{
   width: 60%;
   display: flex;
-  margin-left: 20%;
+  margin-left: 5%;
   
   
   
@@ -390,7 +390,7 @@
 .ad3p{
   width: 60%;
   display: flex;
-  margin-left: 20%;
+  margin-left: 5%;
 }
 
 
@@ -406,7 +406,7 @@
 
 .adtext1, .adtext2{
   
-  align-self: center;
+   margin-left: 5%;
   display: flex;
   font-size: .9em;
   letter-spacing: 2px;
