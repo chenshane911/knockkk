@@ -13,7 +13,7 @@
   left: 10.7%;
   display:inline;
   align-self: flex-start;
-  margin-top: 60px;
+  padding-top: 60px;
   border-top: 1px solid #D2D2D2;
   
   
@@ -26,7 +26,8 @@
   left: 10.7%;
   display:inline;
   align-self: flex-start;
-  margin-top: 300px;
+  padding-top: 60px;
+margin-top: 300px;
   border-top: 1px solid #D2D2D2;
 }
 
@@ -155,7 +156,7 @@ p.installwording  {
   position: absolute;
   position: fixed;
   left: 15%;
- font-family: 'Julius Sans One', sans-serif;
+ font-family: 'Abel', sans-serif;
   font-size: 6em;
   letter-spacing: 33px;
   color: #F2F1E7;
@@ -210,11 +211,11 @@ p.installwording  {
   right:0;
   z-index: 3;
   bottom: 0;
-  background-color: #1A476B;
+  background-color: #232323;
   display: flex;
   flex-direction: row;
-  border-top: 5px solid #3B99C6;
-  border-left: 5px solid #F04444;
+  border-top: 2px solid #3B99C6;
+  border-left: 2px solid #F04444;
 }
 
 .installwording{
@@ -260,6 +261,8 @@ p.installwording  {
 .dn{
 	width: 20px;
 	align-self: center;
+	position: relative;
+	margin-top: 20px;
 }
 
 .coverimg{
@@ -388,19 +391,21 @@ p.installwording  {
   letter-spacing: 2px;
   text-align: center;
   margin-top: 35px;
-  margin-left: 10%;
+  margin-left: 40%;
   line-height: 1.5;
   color: white;
   display: flex;
+	position: relative;
 }
 
 .time2{
+	position: relative;
   font-family: 'Scope One', serif;
   font-size: 2em;
   letter-spacing: 2px;
   text-align: center;
   margin-top: 12px;
-  margin-left: 10%;
+  margin-left: 41%;
   line-height: 1.5;
   color: white;
   display: flex;
