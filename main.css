@@ -9,7 +9,7 @@
 .whywording{
   font-family: 'Scope One', serif;
   font-size: 3em;
-  position: relative;
+  
 	width: 100%;
   left: 30.7%;
   text-align: center;
@@ -23,7 +23,7 @@
 .whywording1{
   font-family: 'Scope One', serif;
   font-size: 3em;
-  position: relative;
+  
   left: 30.7%;
   display:inline;
   text-align: center;
@@ -158,14 +158,14 @@ p.installwording  {
 .visual{
   position: absolute;
   position: fixed;
-  left: 15%;
+  left: 17%;
  font-family: 'Abel', sans-serif;
   font-size: 6em;
   letter-spacing: 33px;
   color: #F2F1E7;
   opacity: 1;
   line-height: 1.7;
-  margin-top: 80px;
+  margin-top: 83px;
   
 }
 
@@ -419,7 +419,7 @@ p.installwording  {
 .ad2p,.ad3p{
   width: 50%;
   display: flex;
-  margin-left: 5%;
+  margin-left: 25%;
   
   
   
@@ -440,7 +440,7 @@ p.installwording  {
 
 .adtext1, .adtext2{
   
-   margin-left: 11%;
+   margin-left: 37%;
   display: flex;
   font-size: .9em;
   letter-spacing: 2px;
@@ -458,5 +458,9 @@ p.installwording  {
 
 
 
-
+.line{
+	width: 2px;
+	border-right: 1px solid black;
+	left: 30%;
+}
 
