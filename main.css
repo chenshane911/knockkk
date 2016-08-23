@@ -348,6 +348,7 @@ p.installwording  {
     background-repeat: no-repeat;
     background-size: 100%;
     flex-direction: column;
+	align-items:  center;
 }
 
 
@@ -383,10 +384,10 @@ p.installwording  {
 
 .time{
   font-family: 'Abel', sans-serif;
-  font-size: 5em;
+  font-size: 3em;
   letter-spacing: 2px;
   text-align: center;
-  margin-top: 15px;
+  margin-top: 35px;
   margin-left: 10%;
   line-height: 1.5;
   color: white;
