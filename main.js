@@ -3,11 +3,17 @@ $(document).ready(function(){
 	
 	
 	$(window).scroll(function () {
-			if ($(this).scrollTop() > offsetTop()) {
+			if ($(this).offsetTop() <=$(this).scrollTop()) {
 				$('.visual').fadeOut();}
-			else($('.visual').fadeIn());
-			
+			else{
+				($('.visual').fadeIn();
+			}
 		});
+	
+
+	
+	
+	
 	
 		$('#back-top a').click(function (e) {
 			e.preventDefault();
