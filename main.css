@@ -28,7 +28,7 @@
   display:inline;
   text-align: center;
   padding-top: 60px;
-margin-top: 300px;
+margin-top: 170px;
   border-top: 1px solid #D2D2D2;
 }
 
@@ -204,7 +204,7 @@ p.installwording  {
 .knockus{
   width: 100%;
   height: 400px;
-  background: #0F6587;
+  background: #1A739D;
 }
 
 
@@ -319,26 +319,14 @@ p.installwording  {
     background-repeat: no-repeat;
     background-size: 100%;
     font-family: 'Scope One', serif;
-    font-size: 1.2em;
+    font-size: 1em;
     letter-spacing: 2px;
-    padding: 12%;
+    padding: 42%;
     line-height: 1.3;
     color: white;
 }
 
-.parallax2 { 
-    /* The image used */
-    background-image: url("img/neli.jpg");
 
-    /* Set a specific height */
-    height: 400px; 
-    
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 
 .parallax3 { 
@@ -458,9 +446,4 @@ p.installwording  {
 
 
 
-.line{
-	width: 2px;
-	border-right: 1px solid black;
-	left: 30%;
-}
 
