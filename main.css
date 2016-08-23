@@ -429,6 +429,7 @@ p.installwording  {
 .adtext1, .adtext2{
   
    margin-left: 37%;
+	margin-bottom: 30px;
   display: flex;
   font-size: .9em;
   letter-spacing: 2px;
